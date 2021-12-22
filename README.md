@@ -11,3 +11,9 @@ parameters). Comment on the model development process, potential shortcomings, a
 
 ## Data
 The data used can be found ________
+
+## Languages & Modelling Techniques Used:
+- R
+- Multinomial Random Forest
+- Binary Target Variable Classifier
+- Hyper Paramter Tuning
