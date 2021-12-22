@@ -10,7 +10,7 @@ parameters). Comment on the model development process, potential shortcomings, a
 4. Compare the two models and discuss the pros/cons of turning the multivariate problem into a simpler binary classification problem (both from a modeling perspective as well as business implications)
 
 ## Data
-The data used can be found ________
+As the dataset is too large to upload to Github, the dataset used can be found [here](http://hrm.iimb.ernet.in/iimb/download/IMB_623.htm)
 
 ## Languages & Modelling Techniques Used:
 - R
