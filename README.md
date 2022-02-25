@@ -1,5 +1,5 @@
 # VMWare-Case-Customer-Analytics
-MMA831 Case
+
 ## Model Development Portion of the Case:
 1. Perform some EDA (exploratory data analysis) and data manipulation/preparation tasks. You should start with understanding your target variable and its relationship to
 various features (hint: you may have “leakage” - i.e. inputs/features that are co-linear with your output/labels. This will accidentally lead to a “perfect model” if not removed)
